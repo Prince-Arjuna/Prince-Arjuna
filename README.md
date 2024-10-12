@@ -5,16 +5,14 @@ I am not currently working on anything i am trying to get an idea
 
 ## Personal Info
 - Indian
-- I am from the bay area
-- Frc team 670 (Homestead Robotics)
-- I am involved in the coding
-- FBLA software ventures
+- Bay area
 - Badminton enthusiast
 
 ## Experience
-- I am learning java
-- I know some python
-- I have been coding for about 1 year
+  ##Python: My first language which is started recently
+  ##Java: Currently learning object-oriented java
+  ## Member of FRC Team 670 since 2024
+  
 
 
 
