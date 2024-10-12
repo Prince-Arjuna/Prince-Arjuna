@@ -13,7 +13,9 @@ I am not currently working on anything i am trying to get an idea
   - **Java** : Currently learning object-oriented java
   - **FRC Team 670**: Homestead Robtics i been involved in the coding
 
+## Social Media
 
+https://www.youtube.com/@TheRizzPrince
     
   
 
