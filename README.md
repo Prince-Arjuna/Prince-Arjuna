@@ -4,12 +4,12 @@ He/Him
 I am not currently working on anything i am trying to get an idea
 
 ## Personal Info
-    - Indian
-    - I am from the bay area
-    - Frc team 670 (Homestead Robotics)
-    - I am involved in the coding
-    - FBLA software ventures
-    - Badminton enthusiast
+- Indian
+- I am from the bay area
+- Frc team 670 (Homestead Robotics)
+- I am involved in the coding
+- FBLA software ventures
+- Badminton enthusiast
 
 ## Experience
 - I am learning java
