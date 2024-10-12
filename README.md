@@ -1,10 +1,14 @@
 ## Hi, i am Prince Arjuna
 
 He/Him
-
 I am not currently working on anything i am trying to get an idea
-## 🌱 I am learning java and i already no some python
-I like to play badminton 
+
+#Experience
+- 🌱 I am learning java 
+- I know some python
+- Badminton enthusiast
+- Frc team 670
+  
 
 
 <!--
