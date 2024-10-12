@@ -4,10 +4,11 @@ He/Him
 I am not currently working on anything i am trying to get an idea
 
 ## Experience
-- 🌱 I am learning java 
+- I am learning java 
 - I know some python
 - Badminton enthusiast
 - Frc team 670
+    - I am involved in the software
   
 
 
