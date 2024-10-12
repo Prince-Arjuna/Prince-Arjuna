@@ -12,6 +12,8 @@ I am not currently working on anything i am trying to get an idea
   - **Python** : My first language which is started recently
   - **Java** : Currently learning object-oriented java
   - **FRC Team 670**: Homestead Robtics i been involved in the coding
+
+
     
   
 
