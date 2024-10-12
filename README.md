@@ -9,9 +9,9 @@ I am not currently working on anything i am trying to get an idea
 - Badminton enthusiast
 
 ## Experience
-  ##Python: My first language which is started recently
-  ##Java: Currently learning object-oriented java
-  ## Member of FRC Team 670 since 2024
+  # Python: My first language which is started recently
+  # Java: Currently learning object-oriented java
+  # Member of FRC Team 670 since 2024
   
 
 
