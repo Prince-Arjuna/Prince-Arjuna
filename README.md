@@ -6,21 +6,21 @@ I am not currently working on anything i am trying to get an idea
 ## Personal Info
     - Indian
     - I am from the bay area
+    - Frc team 670 (Homestead Robotics)
+    - I am involved in the coding
+    - FBLA software ventures
+    - Badminton enthusiast
 
 ## Experience
 - I am learning java
 - I know some python
-- Badminton enthusiast
-- Frc team 670 (Homestead Robotics)
-    - I am involved in the coding
-- FBLA software ventures
+- I have been coding for about 1 year
 
 
 
 
 
 
-![Repo Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=prince-arjuna&theme=black-green)
   
   
 
