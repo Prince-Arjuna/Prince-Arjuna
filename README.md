@@ -3,7 +3,7 @@
 He/Him
 
 I am not currently working on anything i am trying to get an idea
-🌱 I am learning java and i already no some python
+## 🌱 I am learning java and i already no some python
 I like to play badminton 
 
 
