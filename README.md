@@ -1,4 +1,11 @@
-## Hi i am Prince Arjuna
+## Hi, i am Prince Arjuna
+
+He/Him
+
+I am not currently working on anything i am trying to get an idea
+🌱 I am learning java and i already no some python
+I like to play badminton 
+
 
 <!--
 **Prince-Arjuna/Prince-Arjuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
