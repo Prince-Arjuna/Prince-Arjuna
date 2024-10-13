@@ -1,18 +1,19 @@
 ## Hi, i am Prince Arjuna
 
 
-I am not currently working on anything i am trying to get an idea
+- I am not currently working on anything i am trying to get an idea
 
 ## Personal Info
-- Indian
-- Bay area
-- Badminton enthusiast
+-   🇮🇳 Indian
+-   🌉 Bay area
+-  🏸 Badminton enthusiast
 
 ## Experience
   - **Python** : My first language which i started recently
   - **Java** : Currently learning object-oriented java
   - **FRC Team 670**: Homestead Robtics i been involved in the coding
   - **Discord.js/Discord.py**: In the past i worked with coding a discord bot in bot javascript and python
+  - **Russian School of Math** : I studied math here for 5 years and for 3 was in honors
 
 ## Social Media
 
