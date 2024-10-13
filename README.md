@@ -9,7 +9,7 @@
   - **Python** : My first language i made a country application using REST Countries API 
   - **Java** : Currently learning object-oriented java
   - **FRC Team 670**: Homestead Robtics i been involved in the coding
-  - **Discord.js/Discord.py**: In the past i worked with coding a discord bot in bot javascript and python
+  - **Discord.py**: In the past i worked with coding a discord bot in python
 
 ## Goals
   - **Website** : I want to create my own website
