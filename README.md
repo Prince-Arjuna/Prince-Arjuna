@@ -11,6 +11,7 @@
   - **FRC Team 670**: Homestead Robtics i been involved in the coding
   - **Discord.js/Discord.py**: In the past i worked with coding a discord bot in bot javascript and python
   - **Russian School of Math** : I studied math here for 5 years and for 3 was in honors
+  - **Speech and Debate**: Member of my schools speech and debate team where i practice skills like critical thinking and public speakihng
 ## Goals
   - **Website** : I want to create my own website
   - **Game**: I hope to make a video game
