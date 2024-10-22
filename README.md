@@ -5,17 +5,20 @@
 -   🌉 Bay area
 -  🏸 Badminton enthusiast
 
-## Experience
+## About me
   - **Badminton**
     * I enjoy badminton currently at synergy badminton acadmey
-  - **FRC Team 670**
-    * Homestead robotics i have been involved with the coding
+  - **Homestead High Robotics Team**
+    * FRC Team 670, currently involved in software
   - **YMSL (Young Mens Service League)**
     * Current position: Historian
+    **Speech and Debate**
+      - Member of homesteads debate club i hope to compete in future competitions
+    **Godot**
+      * Currently learning game development in godot
+    
 
-## Goals
-  - **Website** : I want to create my own website
-  - **Game**: I hope to make a video game
+
 
 ## Social Media
 
