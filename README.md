@@ -15,7 +15,7 @@
  -   **Speech and Debate**
     * Member of homesteads debate club i hope to compete in future competitions
  -   **Godot**
-      * Currently learning game development in godot
+    * Currently learning game development in godot
     
 
 
