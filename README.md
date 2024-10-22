@@ -12,8 +12,8 @@
     * FRC Team 670, currently involved in software
   - **YMSL (Young Mens Service League)**
     * Current position: Historian
-   - **Godot**
-    * Learning game develompment in godot
+   - **YMSL (Young Mens Service League)**
+    * Current position: Historian
     
 
 
