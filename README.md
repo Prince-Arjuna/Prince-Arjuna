@@ -12,9 +12,7 @@
     * FRC Team 670, currently involved in software
   - **YMSL (Young Mens Service League)**
     * Current position: Historian
- -   **Speech and Debate**
-    * Member of homesteads debate club i hope to compete in future competitions
- -   **Godot**
+  -   **Godot**
     * Currently learning game development in godot
     
 
