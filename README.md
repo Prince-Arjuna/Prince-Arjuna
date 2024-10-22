@@ -6,10 +6,12 @@
 -  🏸 Badminton enthusiast
 
 ## Experience
-  - **Python** : My first language i made a country application using REST Countries API 
-  - **Java** : Currently learning object-oriented java
-  - **FRC Team 670**: Homestead Robtics i been involved in the coding
-  - **Discord.py**: In the past i worked with coding a discord bot in python
+  - **Badminton**
+    * I enjoy badminton currently at synergy badminton acadmey
+  - **FRC Team 670**
+    * Homestead robotics i have been involved with the coding
+  - **YMSL (Young Mens Service League)**
+    * Current position: Historian
 
 ## Goals
   - **Website** : I want to create my own website
