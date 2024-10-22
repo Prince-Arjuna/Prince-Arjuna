@@ -13,7 +13,7 @@
   - **YMSL (Young Mens Service League)**
     * Current position: Historian
     **Speech and Debate**
-      - Member of homesteads debate club i hope to compete in future competitions
+    * Member of homesteads debate club i hope to compete in future competitions
     **Godot**
       * Currently learning game development in godot
     
