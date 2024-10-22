@@ -6,14 +6,16 @@
 -  🏸 Badminton enthusiast
 
 ## About me
-  - **Badminton**
+  - **Godot**
+    * Currently working on game development in godot
+  - **Badminton**  
     * I enjoy badminton currently at synergy badminton acadmey
   - **Homestead High Robotics Team**
     * FRC Team 670, currently involved in software
   - **YMSL (Young Mens Service League)**
     * Current position: Historian
-   - **YMSL (Young Mens Service League)**
-    * Current position: Historian
+   
+   
     
 
 
