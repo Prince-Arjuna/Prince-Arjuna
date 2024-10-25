@@ -7,13 +7,15 @@
 
 ## About me
   - **Godot**
-    * Currently working on game development in godot
+    * Currently learning on game development in godot
   - **Badminton**  
-    * I enjoy badminton currently at synergy badminton acadmey
+    * I enjoy badminton as a hobby
   - **Homestead High Robotics Team**
     * FRC Team 670, currently involved in software
-  - **YMSL (Young Mens Service League)**
-    * Current position: Historian
+  ## Skills
+   - **Python** :Started coding with python i know basics
+  - **Java**:Currently learning object oriented java
+  -  **More**: I hope to learn more coding languages in the future
    
    
     
