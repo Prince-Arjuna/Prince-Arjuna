@@ -15,6 +15,7 @@
   ## Skills
    - **Python** :Started coding with python i know basics
   - **Java**:Currently learning object oriented java
+  - **GdScript**: Language of godot which i am currently learning
   -  **More**: I hope to learn more coding languages in the future
    
    
