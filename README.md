@@ -14,11 +14,16 @@
     * FRC Team 670, currently involved in software
   ## Skills
    - **Python** :Started coding with python i know basics
-  - **Java**:Currently learning object-oriented java
+  - **Java**: Currently learning object-oriented java
   - **GdScript**: Language of godot which i am currently learning
   -  **More**: I hope to learn more coding languages in the future
    
-   
+## Stats
+![Repo Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Arjuna&theme=black-green)
+
+## Projects
+* [First-Game](https://github.com/Prince-Arjuna/first-game/blob/main/README.md)
+* [country-app](https://github.com/Prince-Arjuna/country-app/blob/main/README.md)
     
 
 
