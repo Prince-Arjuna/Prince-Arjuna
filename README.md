@@ -7,11 +7,13 @@
 
 ## About me
   - **Godot**
-    * Currently learning on game development in godot
-  - **Badminton**  
-    * I enjoy badminton as a hobby, currently learning at synergy badminton
-  - **Homestead High Robotics Team**
-    * FRC Team 670, currently involved in software
+    * Currently learning game development in godot
+  - **Synergy Badminton Acadmey**  
+    * Currently learning badminton there
+  - **Homestead Robotics**
+    * FRC Team 670, currently involved with software
+  - **Member of YMSL Rancho Chapter**
+    * Current position: Historian
   ## Skills
    - **Python** :Started coding with python i know basics
   - **Java**: Currently learning object-oriented java
@@ -24,9 +26,6 @@
 ## Projects
 * [First-Game](https://github.com/Prince-Arjuna/first-game/blob/main/README.md)
 * [country-app](https://github.com/Prince-Arjuna/country-app/blob/main/README.md)
-    
-
-
 
 ## Social Media
 
