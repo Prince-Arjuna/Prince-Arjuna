@@ -11,7 +11,6 @@
     * I learn and play badminton there.
   - **Homestead Robotics team**
     * FRC Team 670 software team.
-  - **I enjoy gaming**
    
 ## Stats
 ![Repo Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Arjuna&theme=black-green)
