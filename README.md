@@ -11,6 +11,8 @@
     * I learn and play badminton there.
   - **Homestead Robotics team**
     * FRC Team 670 software team.
+  - **Competed in Counterspell Silicon Valley Hackhaton**
+
    
 ## Stats
 ![Repo Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Arjuna&theme=black-green)
