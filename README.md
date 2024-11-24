@@ -12,6 +12,8 @@
   - **Homestead Robotics team**
     * FRC Team 670 software team.
   - **Competed in Counterspell Silicon Valley Hackhaton**
+    * Worked on a roblox game with 2 other kids
+    * https://www.roblox.com/games/99935537848571/Think-Outside-the-Blocks
 
    
 ## Stats
