@@ -3,19 +3,18 @@
 - 🔭 I’m currently working on game development in Godot
 - 🌱 Currently learning java
 - 🏫 Class of 2028
+- 🪈 Future flutist
 
 ## About me
-  - **Historian in YMSL Rancho chapter**
-    * Organization for volunteering, i take pictures during meetings
+  - **Member of YMSL Rancho chapter**
+    * Current position: Historian
   - **Synergy Badminton Acadmey**
-    * I learn and play badminton there.
+    * Currently taking classes there
   - **Homestead Robotics team**
-    * FRC Team 670 software team.
+    * Software subteam
   - **Competed in Counterspell Silicon Valley Hackhaton**
     * Worked on a roblox game with 2 other kids
-    * https://www.roblox.com/games/99935537848571/Think-Outside-the-Blocks
-
-   
+    * https://www.roblox.com/games/99935537848571/Think-Outside-the-Blocks   
 ## Stats
 ![Repo Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Arjuna&theme=black-green)
 
