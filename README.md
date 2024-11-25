@@ -3,24 +3,24 @@
 - 🔭 I’m currently working on game development in Godot
 - 🌱 Currently learning java
 - 🏫 Class of 2028
-- 🪈 Future flutist
 
 ## About me
-  - **Member of YMSL Rancho chapter**
-    * Current position: Historian
-  - **Synergy Badminton Acadmey**
-    * Currently taking classes there
-  - **Homestead Robotics team**
-    * Software subteam
-  - **Competed in Counterspell Silicon Valley Hackhaton**
-    * Worked on a roblox game with 2 other kids
-    * https://www.roblox.com/games/99935537848571/Think-Outside-the-Blocks   
+* Member of YMSl Rancho Chapter 
+  * Current Position: Historian
+  * Past Positions: None
+* Member of Homestead Robotics
+  * First Robotics Competition Team 670
+  * Software subteam
+* Synergy Badminton Club
+  * Normally singles player
+* Worked on a roblox game for Counterspell Silicon Valley 2024 Game Jam with 2 other kids
 ## Stats
 ![Repo Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Arjuna&theme=black-green)
 
 ## Projects
 * [First-Game](https://github.com/Prince-Arjuna/first-game/blob/main/README.md)
 * [country-app](https://github.com/Prince-Arjuna/country-app/blob/main/README.md)
+* [Counterspell SV Game](https://www.roblox.com/games/99935537848571/Think-Outside-the-Blocks)
 
 ## Social Media
 
