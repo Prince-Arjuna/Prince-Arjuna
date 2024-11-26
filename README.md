@@ -12,7 +12,7 @@
   * First Robotics Competition Team 670
   * Software subteam
 * C grade player at Synergy Badminton Club working towards A grade
-* Worked on a roblox game for Counterspell Silicon Valley 2024 Game Jam with 2 other kids
+* Got 4th place in Counterspell Silicon Valley Game Jam
 ## Stats
 ![Repo Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Arjuna&theme=black-green)
 
