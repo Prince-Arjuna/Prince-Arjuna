@@ -11,7 +11,8 @@
 * Member of Homestead Robotics
   * First Robotics Competition Team 670
   * Software subteam
-* C grade player at Synergy Badminton Club working towards A grade
+* Badminton player at Synergy Badminton
+   * Offensive playstyle
 * Got 4th place in Counterspell Silicon Valley Game Jam
 ## Stats
 ![Repo Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Arjuna&theme=black-green)
