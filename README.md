@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on game development in Godot
 - 🌱 Currently learning java
 - 🏫 Class of 2028
+- 🪈 Flute player
 
 ## About me
 * Member of YMSl Rancho Chapter 
