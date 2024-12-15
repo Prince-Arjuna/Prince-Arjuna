@@ -6,7 +6,7 @@
 - 🪈 Flute player
 
 ## About me
-* Member of YMSl Rancho Chapter 
+* Member of YMSL Rancho Chapter 
   * Current Position: Historian
   * Past Positions: None
 * Member of Homestead Robotics
@@ -18,9 +18,9 @@
 ![Repo Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Arjuna&theme=black-green)
 
 ## Projects
-* [First-Game](https://github.com/Prince-Arjuna/first-game/blob/main/README.md)
-* [country-app](https://github.com/Prince-Arjuna/country-app/blob/main/README.md)
-* [Counterspell SV Game](https://www.roblox.com/games/99935537848571/Think-Outside-the-Blocks)
+* [First-Game](https://github.com/Prince-Arjuna/first-game/blob/main/README.md) a godot project i am currently working on
+* [country-app](https://github.com/Prince-Arjuna/country-app/blob/main/README.md) python program which gives info on countries
+* [Counterspell SV Game](https://www.roblox.com/games/99935537848571/Think-Outside-the-Blocks) roblox game me and other kids developed
 
 ## Social Media
 
