@@ -1,7 +1,7 @@
 ## Hi, i am Prince Arjuna
 
 - 🔭 I’m currently working on game development in Godot
-- 🌱 Currently learning java
+- 🌱 Currently learning javascript
 - 🏫 Class of 2028
 - 🪈 Flute player
 
